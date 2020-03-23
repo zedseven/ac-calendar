@@ -1,6 +1,6 @@
 # Using the Calendar Somewhere Other Than GCal
 
-If you don't use Google Calendar but rather use something else, you'll want to look for an option to import or subscribe to a calendar.
+If you don't use Google Calendar but rather use something else, you'll want to look for an option to import or subscribe to an [iCalendar](https://en.wikipedia.org/wiki/ICalendar) file (.ics) - luckily, this functionality is built into most calendar systems.
 
 Once you've found it, you'll want to copy
 
