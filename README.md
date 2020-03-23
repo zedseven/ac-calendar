@@ -25,12 +25,19 @@ All data for event dates, scheduling, and birthdays has been sourced from [nooki
 
 ## A Couple Examples
 The calendar is rich with villager birthdays:
-> ![A screenshot of Bluebear's birthday on June 24th](/media/birthdayExample.png "Bluebear is one of my favourite villagers, and one of the originals from my Gamecube town")
+
+> ![A screenshot of Bluebear's birthday on June 24th](/media/birthdayExample.png "Bluebear is one of my favourite villagers, and one of the originals from my first Gamecube town. :)")
 
 Note [the attachment, Bluebear.png](https://drive.google.com/file/d/15-HFk3OMNb_xrXo8mVoauhou8-ctd1hk/view) - there's one on every birthday so even if you don't recognize the villager by name, you can quickly see if you know them by appearance!
+
 
 > ![A screenshot of a Fishing Tourney event](/media/fishingTourney.png "Once more is known about AC:NH, fishing tourney events will also have information about whether they're single or multiple-fish ones.")
 
 This is an AC:NL fishing tourney date - it's very likely to be different in AC:NH!
 
 All events are set up in such a way that the calendar will continue to be correct for years to come.
+
+
+> ![A screenshot of a Fireworks Show, which in AC:NL occurred every sunday in August](/media/fireworksShowExample.png "Setting this up involves modifying the RRULE entries of the calendar through the API or iCal import!")
+
+Some events are impossible to set up through a normal calendar app and had to be set up through the API - not super interesting, but something I'm proud of. Google Calendar doesn't support having an event repeat every *\<day\>* of a single month every year.
