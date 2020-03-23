@@ -22,3 +22,15 @@ This has been created as a Google Calendar - if you use a Google account you can
 * **[iCalendar link](https://calendar.google.com/calendar/ical/33pr4f8epfbl7tdf5rqv539ko0%40group.calendar.google.com/private-f4ce1a0d4eb3299a7f82e5f9bb2a0881/basic.ics)**
 
 All data for event dates, scheduling, and birthdays has been sourced from [nookipedia.com](https://nookipedia.com/). If something is incorrect or missing, [open an issue](https://github.com/zedseven/ac-calendar/issues/new) or send me an email.
+
+## A Couple Examples
+The calendar is rich with villager birthdays:
+> ![A screenshot of Bluebear's birthday on June 24th](/media/birthdayExample.png "Bluebear is one of my favourite villagers, and one of the originals from my Gamecube town")
+
+Note [the attachment, Bluebear.png](https://drive.google.com/file/d/15-HFk3OMNb_xrXo8mVoauhou8-ctd1hk/view) - there's one on every birthday so even if you don't recognize the villager by name, you can quickly see if you know them by appearance!
+
+> ![A screenshot of a Fishing Tourney event](/media/fishingTourney.png "Once more is known about AC:NH, fishing tourney events will also have information about whether they're single or multiple-fish ones.")
+
+This is an AC:NL fishing tourney date - it's very likely to be different in AC:NH!
+
+All events are set up in such a way that the calendar will continue to be correct for years to come.
