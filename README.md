@@ -17,7 +17,7 @@ The birthday events are by far the most numerous, and each one has an attachment
 In addition, each event has a similar link to be able to read up further.
 
 ## Using the Calendar
-This has been created as a Google Calendar - if you use a Google account you can subscribe to it directly, or if you use another calendar app you can add the iCal link instead.
+This has been created as a Google Calendar - if you use a Google account you can subscribe to it directly, or if you use another calendar app you can add the [iCalendar](https://en.wikipedia.org/wiki/ICalendar) link instead.
 
 * **[Google Calendar subscribe link](https://calendar.google.com/calendar?cid=MzNwcjRmOGVwZmJsN3RkZjVycXY1MzlrbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)**
 * **[iCalendar link](https://calendar.google.com/calendar/ical/33pr4f8epfbl7tdf5rqv539ko0%40group.calendar.google.com/private-f4ce1a0d4eb3299a7f82e5f9bb2a0881/basic.ics)**
