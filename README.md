@@ -23,7 +23,7 @@ This has been created as a Google Calendar - if you use a Google account you can
 * **[Google Calendar subscribe link](https://calendar.google.com/calendar?cid=MzNwcjRmOGVwZmJsN3RkZjVycXY1MzlrbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)**
 * **[iCalendar link](https://calendar.google.com/calendar/ical/33pr4f8epfbl7tdf5rqv539ko0%40group.calendar.google.com/private-f4ce1a0d4eb3299a7f82e5f9bb2a0881/basic.ics)**
 
-### [Further Instructions](/instructions)
+### [Detailed Instructions on How to Add It](/instructions)
 
 All data for event dates, scheduling, and birthdays has been sourced from [nookipedia.com](https://nookipedia.com/). If something is incorrect or missing, [open an issue](https://github.com/zedseven/ac-calendar/issues/new) or send me an email.
 
