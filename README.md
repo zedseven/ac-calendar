@@ -46,3 +46,6 @@ Some events are impossible to set up through a normal calendar app and had to be
 
 
 All events are set up in such a way that the calendar will continue to be correct for years to come.
+
+
+If it interests you, this repository also contains [the tool I wrote to set up all the hundreds of birthdays](https://github.com/zedseven/extractbdays).
