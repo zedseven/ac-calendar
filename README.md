@@ -1,5 +1,4 @@
 # Animal Crossing Digital Calendar
-A calendar of all Animal Crossing events and birthdays with usable dates.
 
 ### Please note: until the dates of more events are known for Animal Crossing: New Horizons, many events are based on AC:NL - this will be updated as more is known
 
