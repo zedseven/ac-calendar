@@ -35,9 +35,10 @@ Note [the attachment, Bluebear.png](https://drive.google.com/file/d/15-HFk3OMNb_
 
 This is an AC:NL fishing tourney date - it's very likely to be different in AC:NH!
 
-All events are set up in such a way that the calendar will continue to be correct for years to come.
-
 
 > ![A screenshot of a Fireworks Show, which in AC:NL occurred every sunday in August](/media/fireworksShowExample.png "Setting this up involves modifying the RRULE entries of the calendar through the API or iCal import!")
 
 Some events are impossible to set up through a normal calendar app and had to be set up through the API - not super interesting, but something I'm proud of. Google Calendar doesn't support having an event repeat every *\<day\>* of a single month every year.
+
+
+All events are set up in such a way that the calendar will continue to be correct for years to come.
