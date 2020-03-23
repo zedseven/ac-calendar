@@ -1,0 +1,3 @@
+[submodule "extractbdays"]
+	path = extractbdays
+	url = https://github.com/zedseven/extractbdays
