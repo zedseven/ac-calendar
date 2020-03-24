@@ -18,12 +18,12 @@ In addition, each event has a similar link to be able to read up further.
 Note that not every Animal Crossing event is marked in the calendar, as not all of them have predictable dates.
 
 ## Using the Calendar
-This has been created as a Google Calendar - if you use a Google account you can subscribe to it directly, or if you use another calendar app you can add the [iCalendar](https://en.wikipedia.org/wiki/ICalendar) link instead.
+This has been created as a Google Calendar - if you use a Google account you can subscribe to it directly, or if you use another calendar app you can add the iCalendar link instead.
+
+### [Detailed Instructions on How to Add It](/instructions)
 
 * **[Google Calendar subscribe link](https://calendar.google.com/calendar?cid=MzNwcjRmOGVwZmJsN3RkZjVycXY1MzlrbzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)**
 * **[iCalendar link](https://calendar.google.com/calendar/ical/33pr4f8epfbl7tdf5rqv539ko0%40group.calendar.google.com/private-f4ce1a0d4eb3299a7f82e5f9bb2a0881/basic.ics)**
-
-### [Further Instructions](/instructions)
 
 All data for event dates, scheduling, and birthdays has been sourced from [nookipedia.com](https://nookipedia.com/). If something is incorrect or missing, [open an issue](https://github.com/zedseven/ac-calendar/issues/new) or send me an email.
 
@@ -46,3 +46,6 @@ Some events are impossible to set up through a normal calendar app and had to be
 
 
 All events are set up in such a way that the calendar will continue to be correct for years to come.
+
+
+If it interests you, this repository also contains [the tool I wrote to set up all the hundreds of birthdays](https://github.com/zedseven/extractbdays).
