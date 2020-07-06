@@ -1,4 +1,5 @@
 # Animal Crossing Digital Calendar
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Please note: until the dates of more events are known for Animal Crossing: New Horizons, many events are based on AC:NL - this will be updated as more is known
 
